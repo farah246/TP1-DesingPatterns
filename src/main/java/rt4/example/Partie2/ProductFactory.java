@@ -1,4 +1,6 @@
-package rt4.example;
+package rt4.example.Partie2;
+
+import rt4.example.Partie2.*;
 
 public class ProductFactory {
 

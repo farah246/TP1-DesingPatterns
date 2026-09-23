@@ -1,4 +1,4 @@
-package rt4.example;
+package rt4.example.Partie2;
 
 public class Food implements Product {
 
